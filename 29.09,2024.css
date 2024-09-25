@@ -1,0 +1,18 @@
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+#kryesori{
+    display: flex;
+}
+
+#left side{
+    display: flex;
+    background-color: blueviolet;
+}
